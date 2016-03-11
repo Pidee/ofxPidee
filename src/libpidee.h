@@ -31,9 +31,6 @@ extern "C" {
 
 #include <wiringPi.h>
 
-/* Version */
-#define LIB_PIDEE_VERSION "0.0.1"
-
 /* Feature Type */
 
 typedef enum {
